@@ -1,0 +1,8 @@
+.bg-body {
+    --bs-bg-opacity: 1 !important;
+    background-color: rgb(170 192 223 / 44%) !important;
+}
+.custom-menu ul li {
+    font-size: 1.2rem; /* Cambia el tamaño de la fuente */
+    font-family: 'Arial', sans-serif; /* Cambia la fuente */
+}
